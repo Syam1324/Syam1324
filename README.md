@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate on projects related to web development
-- 💬 Ask me about valorant web development
+- 💬 Ask me about Valorant web development
 
    ###  Skills
    [![My Skills](https://skillicons.dev/icons?i=html,css,python,figma&theme=dark)](https://skillicons.dev)
