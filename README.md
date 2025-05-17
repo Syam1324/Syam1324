@@ -1,6 +1,5 @@
-# Hi, I'm Asyam 👋
-
 ![welcome](https://github.com/Syam1324/Syam1324/blob/main/profil%20github2.png?raw=true)
+# Hi, I'm Asyam 👋
 
 - 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate on projects related to web development
