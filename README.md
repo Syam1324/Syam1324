@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Asyam 👋
 
-<!--
-**Syam1324/Syam1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![welcome](gambar/profil%20github2.png)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python and JavaScript
+- 👯 I’m looking to collaborate on projects related to web development
+- 💬 Ask me about valorant web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ###  Skills
+   [![My Skills](https://skillicons.dev/icons?i=html,css,python,figma&theme=dark)](https://skillicons.dev)
+
+   ### My GitHub Stats
+   ![Syam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syam1324&show_icons=true&theme=tokyonight)
